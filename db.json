@@ -60,7 +60,7 @@
 	   "nomClient":"Jerry",
 	    "adresse"  : {
 		    "rue":"Hautes-Plaines",
-		    "noCivic": "686".
+		    "noCivic": "686",
 		    "appartement":"3",
 		    "ville": "Gatineau",
 		    "idProvince":"QC",
