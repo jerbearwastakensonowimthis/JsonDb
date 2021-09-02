@@ -54,7 +54,35 @@
 			"id": "3",
 			"question": "how are you"
 		}
-	]
+	],
+	"Clients":[{
+	   "idClient":"1",
+	   "nomClient":"Jerry",
+	    "adresse"  : {
+		    "rue":"Hautes-Plaines",
+		    "noCivic": "686".
+		    "appartement":"3",
+		    "ville": "Gatineau",
+		    "idProvince":"QC",
+		    "geoPosition:"11.1.11.1",
+		    "email":"jbarb@gmail.com",
+		    "phone": "888-999-8989"
+	    }
+	},{"idClient":"2",
+	   "nomClient":"Berry",
+	    "adresse"  : {
+		    "rue":"Low-Plaines",
+		    "noCivic": "666".
+		    "appartement":"6",
+		    "ville": "Gratineneau",
+		    "idProvince":"QC",
+		    "geoPosition:"11.1.11.1",
+		    "email":"jbarb@gmail.com",
+		    "phone": "888-999-8989"
+	    }
+	},
+		]
+  
 
 
 }
