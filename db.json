@@ -122,12 +122,9 @@
       "model": "911",
       "series": ["gt", "rs", "rsr"]
     },
-   {
+    {
       "model": "x3",
-      "series": ["M-Line", "M", "Msport"
-                 }]
-   }
-
-
-
+      "series": ["M-Line", "M", "Msport"]
+    }
+  ]
 }
