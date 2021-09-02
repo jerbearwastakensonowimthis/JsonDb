@@ -84,35 +84,40 @@
   }],
   "Makes": [{
     "year": "2020",
-    "make": ["BMW","Porsce","Lamborghini"] 
-    
-  }, { "year": "2021",
-    "make": ["Toyota","Lexus","Acura"] 
-    
-    }, { "year": "2022",
-    "make": ["Lada","Volkswagen","Shitbox"] 
-    
-    
+    "make": ["BMW", "Porsce", "Lamborghini"]
+
+  }, {
+    "year": "2021",
+    "make": ["Toyota", "Lexus", "Acura"]
+
+  }, {
+    "year": "2022",
+    "make": ["Lada", "Volkswagen", "Shitbox"]
+
+
   }],
-  "Models": [
-    {
+  "Models": [{
       "make": "BMW",
-      "models": ["x3","328i","M5"]    
-   }, 
-     {  "make": "Porsche",
-    "models": ["911","918","917"] 
+      "models": ["x3", "328i", "M5"]
     },
-    {  "make": "Lamborghini",
-    "models": ["Gallardo","Counatche","Aventador"] 
+    {
+      "make": "Porsche",
+      "models": ["911", "918", "917"]
     },
-    {  "make": "Acura",
-    "models": ["tl","el","tsx"] 
+    {
+      "make": "Lamborghini",
+      "models": ["Gallardo", "Counatche", "Aventador"]
     },
-    {  "make": "Lada",
-    "models": ["bad","real bad","worst"] 
+    {
+      "make": "Acura",
+      "models": ["tl", "el", "tsx"]
     },
-            
-            ]
+    {
+      "make": "Lada",
+      "models": ["bad", "real bad", "worst"]
+    }
+
+  ]
 
 
 
