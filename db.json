@@ -1,88 +1,88 @@
 {
-"Cars":[
-  { 
-     "make": "toyota",
-     "model":"camry",
-     "year": "1992" ,
-     "serie": "XLS",
-     "SumTireFrontSize":"221",
-     "SumTireRearSize":"221",
-     "SumTireFrontMkMdl":"Michelin Pilot Sport",
-     "SumTireRearMkMdl":"Michelin Pilot Sport",
-     "WinTireFrontSize":"200",
-     "WinTireRearSize":"200",
-     "WinTireFrontMkMdl":"UltraGrip",
-     "WinTireRearMkMdl":"UltraGrip"
-  },
-  { 
+  "Cars": [{
       "make": "toyota",
-      "model":"tundra",
+      "model": "camry",
+      "year": "1992",
+      "serie": "XLS",
+      "SumTireFrontSize": "221",
+      "SumTireRearSize": "221",
+      "SumTireFrontMkMdl": "Michelin Pilot Sport",
+      "SumTireRearMkMdl": "Michelin Pilot Sport",
+      "WinTireFrontSize": "200",
+      "WinTireRearSize": "200",
+      "WinTireFrontMkMdl": "UltraGrip",
+      "WinTireRearMkMdl": "UltraGrip"
+    },
+    {
+      "make": "toyota",
+      "model": "tundra",
       "year": "2002",
       "serie": "TRD",
-      "SumTireFrontSize":"221",
-      "SumTireRearSize":"221",
-      "SumTireFrontMkMdl":"Michelin Pilot Sport",
-      "SumTireRearMkMdl":"Michelin Pilot Sport",
-      "WinTireFrontSize":"200",
-      "WinTireRearSize":"200",
-      "WinTireFrontMkMdl":"UltraGrip",
-      "WinTireRearMkMdl":"UltraGrip" 
-  },
-  { 
+      "SumTireFrontSize": "221",
+      "SumTireRearSize": "221",
+      "SumTireFrontMkMdl": "Michelin Pilot Sport",
+      "SumTireRearMkMdl": "Michelin Pilot Sport",
+      "WinTireFrontSize": "200",
+      "WinTireRearSize": "200",
+      "WinTireFrontMkMdl": "UltraGrip",
+      "WinTireRearMkMdl": "UltraGrip"
+    },
+    {
       "make": "dodge",
-      "model":"challenger",
+      "model": "challenger",
       "year": "2021",
-      "serie":"Hellcat",
-      "SumTireFrontSize":"221",
-      "SumTireRearSize":"221",
-      "SumTireFrontMkMdl":"Michelin Pilot Sport",
-      "SumTireRearMkMdl":"Michelin Pilot Sport",
-      "WinTireFrontSize":"200",
-      "WinTireRearSize":"200",
-      "WinTireFrontMkMdl":"UltraGrip",
-      "WinTireRearMkMdl":"UltraGrip"
-  }],
-	"Questions": [{
-			"id": "1",
-			"question": "who are you"
-		},
-		{
-			"id": "2",
-			"question": "where are you"
-		},
-		{
-			"id": "3",
-			"question": "how are you"
-		}
-	],
-	"Clients":[{
-	   "idClient":"1",
-	   "nomClient":"Jerry",
-	    "adresse"  : {
-		    "rue":"Hautes-Plaines",
-		    "noCivic": "686",
-		    "appartement":"3",
-		    "ville": "Gatineau",
-		    "idProvince":"QC",
-		    "geoPosition":"11.1.11.1",
-		    "email":"jbarb@gmail.com",
-		    "phone": "888-999-8989"
-	    }
-	},{"idClient":"2",
-	   "nomClient":"Berry",
-	    "adresse"  : {
-		    "rue":"Low-Plaines",
-		    "noCivic": "666",
-		    "appartement":"6",
-		    "ville": "Gratineneau",
-		    "idProvince":"QC",
-		    "geoPosition":"11.1.11.1",
-		    "email":"jbarb@gmail.com",
-		    "phone": "888-999-8989"
-	    }
-	
-		]
-  
+      "serie": "Hellcat",
+      "SumTireFrontSize": "221",
+      "SumTireRearSize": "221",
+      "SumTireFrontMkMdl": "Michelin Pilot Sport",
+      "SumTireRearMkMdl": "Michelin Pilot Sport",
+      "WinTireFrontSize": "200",
+      "WinTireRearSize": "200",
+      "WinTireFrontMkMdl": "UltraGrip",
+      "WinTireRearMkMdl": "UltraGrip"
+    }
+  ],
+  "Questions": [{
+      "id": "1",
+      "question": "who are you"
+    },
+    {
+      "id": "2",
+      "question": "where are you"
+    },
+    {
+      "id": "3",
+      "question": "how are you"
+    }
+  ],
+  "Clients": [{
+    "idClient": "1",
+    "nomClient": "Jerry",
+    "adresse": {
+      "rue": "Hautes-Plaines",
+      "noCivic": "686",
+      "appartement": "3",
+      "ville": "Gatineau",
+      "idProvince": "QC",
+      "geoPosition": "11.1.11.1",
+      "email": "jbarb@gmail.com",
+      "phone": "888-999-8989"
+    }
+  }, {
+    "idClient": "2",
+    "nomClient": "Berry",
+    "adresse": {
+      "rue": "Low-Plaines",
+      "noCivic": "666",
+      "appartement": "6",
+      "ville": "Gratineneau",
+      "idProvince": "QC",
+      "geoPosition": "11.1.11.1",
+      "email": "jbarb@gmail.com",
+      "phone": "888-999-8989"
+    }
+  }]
+
 
 
 }
