@@ -72,7 +72,7 @@
 	   "nomClient":"Berry",
 	    "adresse"  : {
 		    "rue":"Low-Plaines",
-		    "noCivic": "666".
+		    "noCivic": "666",
 		    "appartement":"6",
 		    "ville": "Gratineneau",
 		    "idProvince":"QC",
